@@ -6,11 +6,11 @@ We need to use our Python skills and knowledge of Pandas to create a summary Dat
 ## Results
 As we can see in the summary bellow the cities with the most drivers are the Urban cities (2,405), and the cities with the fewer drivers are the rural ones (78), that could explain why the most expensive ride fares are the rural (Average fare per ride= $34.62)
 
-![Data_summary](/Challenge Analysis/Data_summary.png)
+![Data_summary](Challenge Analysis/Data_summary.png)
 
 ### In the next graph we can realize that despite being the average fare for the rural rides the most expensive, the sum of the total fares is below $500 per week.
 
-![PyBer_fare_summary](/Challenge Analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary](Challenge Analysis/PyBer_fare_summary.png)
 
 ## Summary:
 Based omn the analysis made, we have the following recommendations:
